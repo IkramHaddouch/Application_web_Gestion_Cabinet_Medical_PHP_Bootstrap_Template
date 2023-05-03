@@ -1,0 +1,10 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: verdana;
+}
+/*index page*/
+#cv_heading{
+	text-align: center;
+	font-weight: bold;
+}
