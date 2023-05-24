@@ -1,6 +1,6 @@
 # Application_web_Gestion_Cabinet_Medical_PHP_Bootstrap_Template
 ## Description
-This project is about a web application for managing a medical practice, allowing the management of patients, visits, and appointments. There are three types of clients (normal patient, expert, and licensed). It is developed in PHP, HTML, CSS, and uses the MySQL database to store data. The layout is created using Bootstrap and a pre-designed template.
+This project presents my observation internship project. It is about a web application for managing a medical practice, allowing the management of patients, visits, and appointments. There are three types of clients (normal patient, expert, and licensed). It is developed in PHP, HTML, CSS, and uses the MySQL database to store data. The layout is created using Bootstrap and a pre-designed template.
 
 <div>
 <img src="https://user-images.githubusercontent.com/115647126/236096885-18b6924a-8457-47dd-a6c5-51d33889ec5d.PNG" width="300" height="200">
